@@ -1,0 +1,28 @@
+body{
+    background-color: var(--bg-pp);
+    padding: 0% 20%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Comic Sans MC', sans-serif;
+    font-size: 34px;
+}
+
+ul{
+    text-decoration: none;
+    /* list-style: none; */ 
+}
+li{
+    color: black;
+}
+
+h2{
+    font-family: 'Safari 1', sans-serif;
+    font-size: 20px;
+}
+
+li{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
